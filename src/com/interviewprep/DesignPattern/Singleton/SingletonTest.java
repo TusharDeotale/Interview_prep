@@ -1,8 +1,5 @@
-package com.interviewprep.DesignPattern;
+package com.interviewprep.DesignPattern.Singleton;
 
-
-import com.interviewprep.DesignPattern.Singleton.SingletonBillPugh;
-import com.interviewprep.DesignPattern.Singleton.SingletonEnum;
 
 import java.io.*;
 
